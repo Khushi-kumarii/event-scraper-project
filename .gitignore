@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Build output
+build/
+dist/
+
+# React build
+/build
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python virtual environment
+venv/
+
+# MySQL database file (if you are using SQLite, you can add it here)
+*.sql
+*.db
+
+# IDE / Editor folders
+.vscode/
+.idea/
